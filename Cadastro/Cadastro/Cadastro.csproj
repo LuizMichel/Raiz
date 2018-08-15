@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AA584A97-9AE3-4297-92BB-1F0C4DD588CD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Cadastro</RootNamespace>
+    <AssemblyName>Cadastro</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="itextsharp, Version=5.5.13.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.11.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Npgsql, Version=4.0.2.0, Culture=neutral, PublicKeyToken=5d8b90d52f46fda7, processorArchitecture=MSIL">
+      <HintPath>..\packages\Npgsql.4.0.2\lib\net451\Npgsql.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.4.5.0\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.0\lib\netstandard2.0\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net461\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastro.Designer.cs">
+      <DependentUpon>Cadastro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Listagem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listagem.Designer.cs">
+      <DependentUpon>Listagem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Cadastro.resx">
+      <DependentUpon>Cadastro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listagem.resx">
+      <DependentUpon>Listagem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{b4878ed0-f5fd-4331-b6a2-386f09a89e83}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{be3908e3-4973-4314-a043-6bac07d08dab}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Modelos\Modelos.csproj">
+      <Project>{76d3c39a-31b1-4016-91e3-9c82aaefac1b}</Project>
+      <Name>Modelos</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MetroFramework.txt" />
+    <None Include="Resources\if_fax__print__printer__computer__2568276 %282%291.png" />
+    <None Include="Resources\if_edit-clear_232271.ico" />
+    <None Include="Resources\if_DeleteRed_34218.ico" />
+    <None Include="Resources\if_Save_70652.ico" />
+    <None Include="Resources\MinhaImg.png" />
+    <None Include="Resources\menu_hiking.png" />
+    <None Include="Resources\logogervan1.png" />
+    <None Include="Resources\logogervan.png" />
+    <None Include="Resources\LoginRed.jpg" />
+    <None Include="Resources\if_thefreeforty_cashregister_1243672.png" />
+    <None Include="Resources\if_simpline_37_2305624_128.png" />
+    <None Include="Resources\if_simpline_37_2305624.png" />
+    <None Include="Resources\if_SEO_usability_audit_search__9692501.png" />
+    <None Include="Resources\if_SEO_usability_audit_search__969250_1281.png" />
+    <None Include="Resources\if_SEO_usability_audit_search__969250_128.png" />
+    <None Include="Resources\if_SEO_usability_audit_search__969250.png" />
+    <None Include="Resources\if_Programming_Development_analysis_1743801_128FCU.png" />
+    <None Include="Resources\if_print_job_seeker_employee_unemployee_work_2620507.png" />
+    <None Include="Resources\if_print_job_seeker_employee_unemployee_work_2620507 %281%29.png" />
+    <None Include="Resources\if_Noun_Project_100Icon_10px_grid-26_296917_128.png" />
+    <None Include="Resources\if_money_1312850.png" />
+    <None Include="Resources\if_money_1312850 %281%29.png" />
+    <None Include="Resources\if_icons-07_799759_128.png" />
+    <None Include="Resources\if_icons-06_799760.png" />
+    <None Include="Resources\if_icons-03_799763_128.png" />
+    <None Include="Resources\if_icons-03_799763.png" />
+    <None Include="Resources\if_icons-02_799764_128.png" />
+    <None Include="Resources\if_icons-02_799764.png" />
+    <None Include="Resources\if_gear_1055051 %281%29.png" />
+    <None Include="Resources\if_free-37_910741.png" />
+    <None Include="Resources\if_free-37_910741 %281%29.png" />
+    <None Include="Resources\if_free-14_463013.png" />
+    <None Include="Resources\if_free-14_463013 %281%29.png" />
+    <None Include="Resources\if_free-07_463022.png" />
+    <None Include="Resources\if_free-07_463022 %282%29.png" />
+    <None Include="Resources\if_file_370083_64.png" />
+    <None Include="Resources\if_fax__print__printer__computer__2568276.png" />
+    <None Include="Resources\if_fax__print__printer__computer__2568276 %282%29.png" />
+    <None Include="Resources\if_Edit-01_1976055_1281.png" />
+    <None Include="Resources\if_Edit-01_1976055_128.png" />
+    <None Include="Resources\if_edit_2199097_128.png" />
+    <None Include="Resources\if_business_finance_money-03_2784288 %282%292.png" />
+    <None Include="Resources\if_business_finance_money-03_2784288 %282%291.png" />
+    <None Include="Resources\if_business_finance_money-03_2784288 %282%29.png" />
+    <None Include="Resources\if_BT_printer_905556 %281%29.png" />
+    <None Include="Resources\if_BT_dollar_905630_128.png" />
+    <None Include="Resources\if_24_1724141 %281%29.png" />
+    <None Include="Resources\if_12.File_290138_64.png" />
+    <None Include="Resources\if_07.Wallet_290143_128.png" />
+    <None Include="Resources\gervan.jpg" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

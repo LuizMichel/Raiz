@@ -1,0 +1,49 @@
+C:\Users\Prog03\Desktop\Cadastroo\Cadastro\BLL\bin\Debug\BLL.dll
+C:\Users\Prog03\Desktop\Cadastroo\Cadastro\BLL\bin\Debug\BLL.pdb
+C:\Users\Prog03\Desktop\Cadastroo\Cadastro\BLL\bin\Debug\DAL.dll
+C:\Users\Prog03\Desktop\Cadastroo\Cadastro\BLL\bin\Debug\Modelos.dll
+C:\Users\Prog03\Desktop\Cadastroo\Cadastro\BLL\bin\Debug\Npgsql.dll
+C:\Users\Prog03\Desktop\Cadastroo\Cadastro\BLL\bin\Debug\System.ValueTuple.dll
+C:\Users\Prog03\Desktop\Cadastroo\Cadastro\BLL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Prog03\Desktop\Cadastroo\Cadastro\BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Prog03\Desktop\Cadastroo\Cadastro\BLL\bin\Debug\netstandard.dll
+C:\Users\Prog03\Desktop\Cadastroo\Cadastro\BLL\bin\Debug\DAL.pdb
+C:\Users\Prog03\Desktop\Cadastroo\Cadastro\BLL\bin\Debug\Modelos.pdb
+C:\Users\Prog03\Desktop\Cadastroo\Cadastro\BLL\bin\Debug\Npgsql.pdb
+C:\Users\Prog03\Desktop\Cadastroo\Cadastro\BLL\bin\Debug\Npgsql.xml
+C:\Users\Prog03\Desktop\Cadastroo\Cadastro\BLL\bin\Debug\System.ValueTuple.xml
+C:\Users\Prog03\Desktop\Cadastroo\Cadastro\BLL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Prog03\Desktop\Cadastroo\Cadastro\BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Prog03\Desktop\Cadastroo\Cadastro\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Prog03\Desktop\Cadastroo\Cadastro\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Prog03\Desktop\Cadastroo\Cadastro\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Prog03\Desktop\Cadastroo\Cadastro\BLL\obj\Debug\BLL.dll
+C:\Users\Prog03\Desktop\Cadastroo\Cadastro\BLL\obj\Debug\BLL.pdb
+C:\Users\Prog03\Desktop\Projeto Cadastro\Cadastro\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Prog03\Desktop\Projeto Cadastro\Cadastro\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Prog03\Desktop\Projeto Cadastro\Cadastro\BLL\obj\Debug\BLL.dll
+C:\Users\Prog03\Desktop\Projeto Cadastro\Cadastro\BLL\obj\Debug\BLL.pdb
+C:\Users\Prog03\Desktop\Projeto Cadastro\Cadastro\BLL\bin\Debug\BLL.dll
+C:\Users\Prog03\Desktop\Projeto Cadastro\Cadastro\BLL\bin\Debug\BLL.pdb
+C:\Users\Prog03\Desktop\Projeto Cadastro\Cadastro\BLL\bin\Debug\DAL.dll
+C:\Users\Prog03\Desktop\Projeto Cadastro\Cadastro\BLL\bin\Debug\Modelos.dll
+C:\Users\Prog03\Desktop\Projeto Cadastro\Cadastro\BLL\bin\Debug\Npgsql.dll
+C:\Users\Prog03\Desktop\Projeto Cadastro\Cadastro\BLL\bin\Debug\System.ValueTuple.dll
+C:\Users\Prog03\Desktop\Projeto Cadastro\Cadastro\BLL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Prog03\Desktop\Projeto Cadastro\Cadastro\BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Prog03\Desktop\Projeto Cadastro\Cadastro\BLL\bin\Debug\netstandard.dll
+C:\Users\Prog03\Desktop\Projeto Cadastro\Cadastro\BLL\bin\Debug\DAL.pdb
+C:\Users\Prog03\Desktop\Projeto Cadastro\Cadastro\BLL\bin\Debug\Modelos.pdb
+C:\Users\Prog03\Desktop\Projeto Cadastro\Cadastro\BLL\bin\Debug\Npgsql.pdb
+C:\Users\Prog03\Desktop\Projeto Cadastro\Cadastro\BLL\bin\Debug\Npgsql.xml
+C:\Users\Prog03\Desktop\Projeto Cadastro\Cadastro\BLL\bin\Debug\System.ValueTuple.xml
+C:\Users\Prog03\Desktop\Projeto Cadastro\Cadastro\BLL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Prog03\Desktop\Projeto Cadastro\Cadastro\BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Prog03\Desktop\Projeto Cadastro\Cadastro\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Prog03\Desktop\Projeto Cadastro\Cadastro\BLL\bin\Debug\itextsharp.dll
+C:\Users\Prog03\Desktop\Projeto Cadastro\Cadastro\BLL\bin\Debug\MetroFramework.Design.dll
+C:\Users\Prog03\Desktop\Projeto Cadastro\Cadastro\BLL\bin\Debug\MetroFramework.dll
+C:\Users\Prog03\Desktop\Projeto Cadastro\Cadastro\BLL\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Prog03\Desktop\Projeto Cadastro\Cadastro\BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Prog03\Desktop\Projeto Cadastro\Cadastro\BLL\bin\Debug\itextsharp.xml
+C:\Users\Prog03\Desktop\Projeto Cadastro\Cadastro\BLL\bin\Debug\Newtonsoft.Json.xml

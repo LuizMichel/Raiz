@@ -1,0 +1,20 @@
+C:\Users\Prog03\Desktop\Cadastroo\Cadastro\Modelos\bin\Debug\Modelos.dll
+C:\Users\Prog03\Desktop\Cadastroo\Cadastro\Modelos\bin\Debug\Modelos.pdb
+C:\Users\Prog03\Desktop\Cadastroo\Cadastro\Modelos\obj\Debug\Modelos.csprojAssemblyReference.cache
+C:\Users\Prog03\Desktop\Cadastroo\Cadastro\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Prog03\Desktop\Cadastroo\Cadastro\Modelos\obj\Debug\Modelos.dll
+C:\Users\Prog03\Desktop\Cadastroo\Cadastro\Modelos\obj\Debug\Modelos.pdb
+C:\Users\Prog03\Desktop\Projeto Cadastro\Cadastro\Modelos\bin\Debug\Modelos.dll
+C:\Users\Prog03\Desktop\Projeto Cadastro\Cadastro\Modelos\bin\Debug\Modelos.pdb
+C:\Users\Prog03\Desktop\Projeto Cadastro\Cadastro\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Prog03\Desktop\Projeto Cadastro\Cadastro\Modelos\obj\Debug\Modelos.dll
+C:\Users\Prog03\Desktop\Projeto Cadastro\Cadastro\Modelos\obj\Debug\Modelos.pdb
+C:\Users\Prog03\Desktop\Projeto Cadastro\Cadastro\Modelos\bin\Debug\itextsharp.dll
+C:\Users\Prog03\Desktop\Projeto Cadastro\Cadastro\Modelos\bin\Debug\MetroFramework.Design.dll
+C:\Users\Prog03\Desktop\Projeto Cadastro\Cadastro\Modelos\bin\Debug\MetroFramework.dll
+C:\Users\Prog03\Desktop\Projeto Cadastro\Cadastro\Modelos\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Prog03\Desktop\Projeto Cadastro\Cadastro\Modelos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Prog03\Desktop\Projeto Cadastro\Cadastro\Modelos\bin\Debug\itextsharp.xml
+C:\Users\Prog03\Desktop\Projeto Cadastro\Cadastro\Modelos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Prog03\Desktop\Projeto Cadastro\Cadastro\Modelos\obj\Debug\Modelos.csproj.CopyComplete
+C:\Users\Prog03\Desktop\Projeto Cadastro\Cadastro\Modelos\obj\Debug\Modelos.csprojAssemblyReference.cache
